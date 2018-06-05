@@ -1,0 +1,9 @@
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.csprojResolveAssemblyReference.cache
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.Form1.resources
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.Properties.Resources.resources
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.csproj.GenerateResource.Cache
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\bin\Debug\istatikselHesapMakinesi.exe.config
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\bin\Debug\istatikselHesapMakinesi.exe
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\bin\Debug\istatikselHesapMakinesi.pdb
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.exe
+c:\users\zeyne\onedrive\belgeler\visual studio 2017\Projects\istatikselHesapMakinesi\istatikselHesapMakinesi\obj\Debug\istatikselHesapMakinesi.pdb
